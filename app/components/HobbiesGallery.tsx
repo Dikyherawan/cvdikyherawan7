@@ -3,10 +3,10 @@ import React from 'react';
 
 // Data Hobi
 const hobbies = [
-  { name: 'Photography', image: '/images/hobi1.jpg', description: 'Capturing moments through the lens.' },
-  { name: 'Playing Game', image: '/images/hobi2.jpeg', description: 'Immersing in virtual worlds.' },
-  { name: 'Basketball', image: '/images/hobi3.jpeg', description: 'Enjoying teamwork and competition.' },
-  { name: 'Travelling', image: '/images/hobi4.jpeg', description: 'Exploring new places and cultures.' },
+  { name: 'Photography', image: '/Images/hobi1.jpg', description: 'Capturing moments through the lens.' },
+  { name: 'Playing Game', image: '/Images/hobi2.jpeg', description: 'Immersing in virtual worlds.' },
+  { name: 'Basketball', image: '/Images/hobi3.jpeg', description: 'Enjoying teamwork and competition.' },
+  { name: 'Travelling', image: '/Images/hobi4.jpeg', description: 'Exploring new places and cultures.' },
 ];
 
 const HobbiesGallery = () => {
