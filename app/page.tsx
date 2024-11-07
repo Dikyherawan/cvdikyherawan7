@@ -7,7 +7,7 @@ import PersonalInfo from "./components/PersonalInfo";
 import HobbiesGallery from "./components/HobbiesGallery";
 import StarRating from "./components/StarRating";
 import Skills from "./components/Skills";
-
+import RiwayatPekerjaan from "./components/RiwayatPekerjaan";
 export default function MyApp() {
   return (
     <section>
@@ -16,6 +16,7 @@ export default function MyApp() {
       <PersonalInfo />
       <Skills />
       <RiwayatPendidikan />
+      <RiwayatPekerjaan />
       <HobbiesGallery />
       <FavColor />
       <Contact />
